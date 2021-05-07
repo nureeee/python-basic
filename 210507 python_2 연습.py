@@ -101,7 +101,23 @@ while True:
         res = Div(n1, n2)
     else:
         print(op,'없는 연산입니다.')
-    print('{} {} {} = {}'.format)
+      print('{} {} {} = {}'.format(n1, op, n2, res))
+        
+'''
+
+def Add(x = 100, y=100, z = 100):
+    print('x= ', x, 'y= ', y, 'z= ', z)
+
+
+
+def Call(x = '철수'):
+    print(x, '야! 놀자')
+
+Call()
+Call('누리')
+Add()
+Add(10)
+Add(y=10, x=5, z=5)
         
     
 
