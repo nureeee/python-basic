@@ -1,4 +1,4 @@
-# python-basi
+# python-basic
 
 210510_visul studio code로 첫 파이썬!
 비주얼 스튜디오 코드 단축키
